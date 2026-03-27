@@ -39,6 +39,9 @@ The dashboard provides insights into sales trends, performance over time, and ke
 ###  Sales Trend
 ![Dashboard](Dashboard3.png)
 
+## 🔗 Live Dashboard
+[View Interactive Dashboard](https://app.powerbi.com/links/KTWDs0Day2?ctid=381e6049-5cb6-45ef-ac7b-cfa6ec70fc94&pbi_source=linkShare)
+
 ---
 
 ##  Business Use Case
